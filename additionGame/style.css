@@ -1,0 +1,27 @@
+span{
+    font-size: 25px;
+    color: darkorchid;
+}
+
+input{
+    background-color: darkslategrey;
+    border: 0;
+    color: aliceblue;
+    font-size: 30px;
+    width: 100px;
+}
+
+.counter{
+    float: right;
+    color: #FC1501
+}
+
+#points{
+    float: left;
+    color: teal
+}
+
+body{
+    height:100%;
+    background: #f29492;
+}
