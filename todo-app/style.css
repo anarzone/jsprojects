@@ -1,0 +1,15 @@
+.deleteBtn{
+    position: relative;
+    margin-left: 5px; 
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    bottom: 2px;
+    left: 10px;
+    font-size: 17px;
+}
+
+.noteDiv{
+    margin: 5px;
+}
+
